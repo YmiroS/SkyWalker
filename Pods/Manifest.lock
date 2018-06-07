@@ -1,0 +1,55 @@
+PODS:
+  - Alamofire (4.7.0)
+  - AlamofireObjectMapper (4.1.0):
+    - Alamofire (~> 4.1)
+    - ObjectMapper (~> 2.0)
+  - AMap2DMap (5.6.0):
+    - AMapFoundation (~> 1.4)
+  - AMapFoundation (1.4.3)
+  - AMapLocation (2.6.0):
+    - AMapFoundation (~> 1.4)
+  - Kingfisher (4.6.3)
+  - MJRefresh (3.1.15.3)
+  - ObjectMapper (2.2.9)
+  - SnapKit (3.2.0)
+  - SVProgressHUD (2.1.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - AlamofireObjectMapper (~> 4.0)
+  - AMap2DMap
+  - AMapLocation
+  - Kingfisher
+  - MJRefresh
+  - ObjectMapper (~> 2.2)
+  - SnapKit (= 3.2.0)
+  - SVProgressHUD (= 2.1.2)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireObjectMapper
+    - AMap2DMap
+    - AMapFoundation
+    - AMapLocation
+    - Kingfisher
+    - MJRefresh
+    - ObjectMapper
+    - SnapKit
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: 907e0a98eb68cdb7f9d1f541a563d6ac5dc77b25
+  AlamofireObjectMapper: 435adc82f5b367679bd9e71c4974a54efd0b2521
+  AMap2DMap: cf0bfd6ae97951b55cc061903b814f924ba6c221
+  AMapFoundation: 973682cfe60b92efd73a8ef8f1144fa0fa8e1296
+  AMapLocation: 55116a2c8956eab7550cbb56e989aa5cdcc424e3
+  Kingfisher: 98e6d5b5e807645743e8ed5ececd25d688d38452
+  MJRefresh: b48380ae2b927b46c4ef000de9adb8dc748e1df7
+  ObjectMapper: 63cfe41bc6f8e7c8f44344c49901b8ae7de14c52
+  SnapKit: 1ca44df72cfa543218d177cb8aab029d10d86ea7
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+
+PODFILE CHECKSUM: 658f8808999d38155a0fb109ed1bba28bbb23e19
+
+COCOAPODS: 1.5.3
